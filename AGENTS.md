@@ -10,6 +10,8 @@ This document outlines the essential guidelines for agents operating within this
 - **Markdown Formatting**: Adhere to GitHub Flavored Markdown. Use consistent headers, lists, and code blocks.
 - **Naming Conventions**: Follow `notes/XX-topic.md` and `notes/resources/detailed-resource.md` patterns.
 - **Link Management**: All URLs must be clickable markdown links with descriptive text.
+- **Code Expressions**: Use consistent indentation and formatting for code blocks.
+- **Math Expressions**: Use LaTeX syntax within dollar signs ($) for inline math and double dollar signs ($$) for display math.
 - **Error Handling**: Clearly document any conversion errors, broken links, or inconsistencies.
 
 ## Project Structure Guidelines
