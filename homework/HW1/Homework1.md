@@ -1,4 +1,3 @@
-{{REWRITTEN_CODE}}
 # Homework 1 (10 pts)
 
 Topics: risk minimization + model selection
@@ -23,7 +22,7 @@ Clearly present all modeling results, including resampling error, optimal k-valu
 .)
 
 ## 2. Problem 2.8 (2.5 pts)
-2.8 Repeat Problem 2.7 using election results for year 2000 as training data, and election results for year 2004 as test data [2, CH].
+2.8 Repeat Problem 2.7 using election results for year 2000 as training data, and election results for year 2004 as test data.
 
 ## 3. Problem 2.11 (2.5 pts)
 2.11 For the data set used in Example 2.6, estimate an optimal regression model using:
@@ -36,5 +35,4 @@ $ and $y = x^2 + 0.1x + noise$. The noise has Gaussian distribution $N(0, 0.25)$
 .
 
 ## 4. Problem 2.12 (2.5 pts)
-2.12 Repeat application of trigonometric and algebraic polynomial estimators to the data set in Problem 2.11. However, now the goal is to compare the prediction accuracies of these methods using 5-fold cross validation. Use Schwartz criterion for model selection [2, CH].
-
+2.12 Repeat application of trigonometric and algebraic polynomial estimators to the data set in Problem 2.11. However, now the goal is to compare the prediction accuracies of these methods using 5-fold cross validation. Use Schwartz criterion for model selection.
